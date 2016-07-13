@@ -1,0 +1,14 @@
+//
+//  NHScrollMasPro-prefix.pch
+//  NHScrollMasPro
+//
+//  Created by hu jiaju on 16/3/7.
+//  Copyright © 2016年 hu jiaju. All rights reserved.
+//
+
+#ifndef NHScrollMasPro_prefix_pch
+#define NHScrollMasPro_prefix_pch
+
+#import <Masonry.h>
+
+#endif /* NHScrollMasPro_prefix_pch */
